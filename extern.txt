@@ -1,1 +1,3 @@
-<p> Hola com estas </p>
+<p id="paragraf1"> 1. Hola com estas </p>
+<p id="paragraf2"> 2. Hola com estas </p>
+<p id="paragraf3"> 3. Hola com estas </p>
