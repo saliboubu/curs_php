@@ -10,4 +10,5 @@
 
     <a href="{{route('botigues')}}">Botigues</a>
     <a href="{{route('categories.index')}}">Gestor de categories</a>
+    <a href="{{route('shops.index')}}">Gestor de botigues</a>
 </div>

@@ -46,4 +46,5 @@ Route::get('products/{id}','FrontendController@product')->name('product');
 Route::prefix('admin')->group(function(){
     //Route::get('categories','CategoriesController@index')->name('admin.categories');
     Route::resource('categories','CategoriesController');//Amaga 7 rutes, mirar la documentació de Laravel
+    Route::resource('shops','ShopController');
 });
